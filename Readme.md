@@ -13,6 +13,7 @@ O pedido fica salvo no AsyncStorage
 
 - React Native
 - Nativewind e TailwinCss
+- Expo
 
 
  
